@@ -1,7 +1,7 @@
 # Answers
 
-Lastname:
-Firstname:
+Lastname:Uppal
+Firstname:Srishti
 
 ## 2.2
 command:
